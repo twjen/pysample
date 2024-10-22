@@ -20,8 +20,7 @@ Modify .vscode/settings.json
       },
       "terminal.integrated.env.windows": {
         "PYTHONPATH": "${workspaceFolder}/src",
-      },
-      "python.envFile": "${workspaceFolder}/.env"
+      }
     }
 
 ## Debugging
