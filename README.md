@@ -1,7 +1,7 @@
 # pysample
 
 Sample Python Project for VSCode Environments
-This project serves as a demonstration of a Python environment setup within Visual Studio Code (VSCode).
+This project provides a basic setup for a Python environment within Visual Studio Code (VSCode).
 
 ## Run in terminal
 Modify .vscode/settings.json
