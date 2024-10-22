@@ -3,11 +3,6 @@
 Sample Python Project for VSCode Environments
 This project serves as a demonstration of a Python environment setup within Visual Studio Code (VSCode).
 
-
-## Author
-[twjen]: https://github.com/twjen
-
-
 ## Run in terminal
 Modify .vscode/settings.json
 
